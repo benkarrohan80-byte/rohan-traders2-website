@@ -1,6 +1,0 @@
-{
-  "name": "Rohan Traders",
-  "description": "Rohan Traders - India's trusted buyer of all kinds of scrap with doorstep pickup and instant payment.",
-  "requestFramePermissions": ["geolocation"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}

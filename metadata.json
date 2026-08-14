@@ -1,0 +1,6 @@
+{
+  "name": "Bill & Payment Tally",
+  "description": "Smart ledger tool to tally bill amounts and received payments, track pending balances, payment installments, customer accounts, and print receipts/invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
